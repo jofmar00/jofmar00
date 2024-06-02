@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm jofmar 
+### Computer Engineering Student
+I am passionate about system administration and cybersecurity, so i will post here the tools I create so everyone can use them 😀
 
 <!--
 **jofmar00/jofmar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

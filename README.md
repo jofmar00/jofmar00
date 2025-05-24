@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left">I am passionate about system administration and Cyber-Security, so i will post here the tools I create so everyone can use them 😀</p>
-
-###
-
 <h3 align="center">Languages Learned</h3>
 
 ###
